@@ -16,7 +16,7 @@ function Home() {
         </div>
         </div>
         <div className="imgDiv">
-            <img className="myimage" src={me} alt="myimage" />
+            <img className="myimage" src="https://i.pinimg.com/originals/a8/d4/07/a8d407066cdfc4ab09470f6a4d19c389.jpg" alt="myimage" />
         </div>
     </div>
         <div className="potforlio" id="potforlio">
