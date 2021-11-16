@@ -4,9 +4,11 @@ function Reactfr() {
     <div className="card cl">
        <i class="fab fa-react"></i>
         <div className="card-footer">
-        <button className="btn btn-success">Eplore technique</button>
+        
         <p></p>
-            <p>My best programming language .</p>
+            <p>My best programming language .
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, modi.
+            </p>
         </div>
     </div> );
 }
