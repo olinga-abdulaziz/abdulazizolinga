@@ -8,7 +8,7 @@ function Navbar() {
              <font className="nav-brand"><strong>Abdulaaziz</strong></font>
              </div>
              <div className="btn-group">
-                 <Link to="/" className="btn btn-success">Home</Link>
+                 <Link to="/" className="btn btn-success"><i class="fa fa-home" aria-hidden="true"></i> Home</Link>
                  <Link to="/about" className="btn btn-success">About</Link>
                  <Link to="/contact" className="btn btn-success">Contact</Link>
              </div>

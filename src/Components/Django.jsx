@@ -1,8 +1,8 @@
 import img from '../Images/python.jpg'
-function Python() {
+function Django() {
     return ( 
     <div className="card cl">
-       <i class="fab fa-python"></i>
+       <img src="https://icon-library.com/images/django-icon/django-icon-17.jpg" alt="" width="200" height="200"  />
         <div className="card-footer">
         <button className="btn btn-success">Eplore technique</button>
         <p></p>
@@ -11,4 +11,4 @@ function Python() {
     </div> );
 }
 
-export default Python;
+export default Django;
