@@ -2,9 +2,11 @@ import img from '../Images/javascript.png'
 function Js() {
     return ( 
     <div className="card cl">
-        <img src="https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript.jpg" alt="" width="195" height="195" />
+        <i class="fab fa-js-square"></i>
         <div className="card-footer">
-            <p>My best programming language</p>
+        <button className="btn btn-success">Eplore technique</button>
+        <p></p>
+            <p>i like javascript it changed my virtual world</p>
         </div>
     </div> );
 }

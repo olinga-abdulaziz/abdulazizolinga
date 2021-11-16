@@ -2,9 +2,11 @@ import img from '../Images/java.png'
 function Java() {
     return ( 
     <div className="card cl">
-        <img src="https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language-2.png" alt="" width="195" height="195" />
+       <i class="fab fa-java"></i>
         <div className="card-footer">
-            <p>My best programming language</p>
+            <button className="btn btn-success">Eplore technique</button>
+            <p></p>
+            <p>Favourite language i use most</p>
         </div>
     </div> );
 }
